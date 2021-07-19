@@ -5,3 +5,4 @@ streamlit
 matplotlib
 plotly
 openpyxl
+xlrd
