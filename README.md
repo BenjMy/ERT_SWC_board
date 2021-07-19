@@ -14,3 +14,8 @@ Minimum data required:
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjmy/ert_swc_board/main/test.py)
 
 # How to contribute
+
+Contributors
+------------
+- Benjamin Mary, University of Padua
+- Guillaume Blanchy, University of Lancaster
