@@ -4,4 +4,3 @@ Pillow
 streamlit
 matplotlib
 plotly
-json
