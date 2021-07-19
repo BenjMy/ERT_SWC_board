@@ -4,3 +4,4 @@ Pillow
 streamlit
 matplotlib
 plotly
+openpyxl
