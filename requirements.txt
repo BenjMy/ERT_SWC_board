@@ -9,5 +9,4 @@ xlrd
 pyxlsb
 pybtex
 scipy
-io
 six
