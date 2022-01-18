@@ -10,3 +10,4 @@ pyxlsb
 pybtex
 scipy
 six
+uncertainties
