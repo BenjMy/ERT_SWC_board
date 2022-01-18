@@ -15,6 +15,11 @@ Minimum data required:
 
 # How to contribute
 
+To-do list:
+-----------
+- [ ] add new pedophysical models: Differential Effective Medium theory
+
+
 Contributors
 ------------
 - Benjamin Mary, University of Padua
